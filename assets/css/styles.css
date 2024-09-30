@@ -1,0 +1,135 @@
+<<<<<<< HEAD
+/* Estilo general del cuerpo */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e9f1f5; /* Fondo claro */
+  color: #333; /* Texto oscuro */
+}
+
+/* Estilo del encabezado */
+header {
+  background-color: #007bff; /* Color azul */
+  color: #ffffff; /* Texto blanco */
+  padding: 60px 20px; /* Espaciado superior e inferior */
+  text-align: center; /* Centrando texto */
+}
+
+/* Estilo de títulos */
+h1 {
+  font-size: 2.5rem; /* Tamaño de título */
+  margin-bottom: 10px; /* Margen inferior */
+}
+
+h2 {
+  color: #007bff; /* Color azul para subtítulos */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo de párrafos */
+p {
+  line-height: 1.6; /* Espaciado entre líneas */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo de tabla */
+.table {
+  margin-top: 20px; /* Margen superior */
+  border-collapse: collapse; /* Colapsar bordes */
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd; /* Línea debajo de las celdas */
+}
+
+th {
+  background-color: #0056b3; /* Azul oscuro para encabezados */
+  color: #ffffff; /* Texto blanco */
+}
+
+tbody tr:hover {
+  background-color: #007bff; /* Hover en filas de tabla */
+  color: #ffffff; /* Texto blanco al hacer hover */
+}
+
+/* Estilo del formulario */
+form {
+  margin-top: 20px; /* Margen superior */
+}
+
+/* Estilo del footer */
+footer {
+  background-color: #007bff; /* Color azul para el pie de página */
+  color: #ffffff; /* Texto blanco */
+  padding: 10px 0; /* Espaciado */
+  text-align: center; /* Centrando texto */
+}
+=======
+/* Estilo general del cuerpo */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e9f1f5; /* Fondo claro */
+  color: #333; /* Texto oscuro */
+}
+
+/* Estilo del encabezado */
+header {
+  background-color: #007bff; /* Color azul */
+  color: #ffffff; /* Texto blanco */
+  padding: 60px 20px; /* Espaciado superior e inferior */
+  text-align: center; /* Centrando texto */
+}
+
+/* Estilo de títulos */
+h1 {
+  font-size: 2.5rem; /* Tamaño de título */
+  margin-bottom: 10px; /* Margen inferior */
+}
+
+h2 {
+  color: #007bff; /* Color azul para subtítulos */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo de párrafos */
+p {
+  line-height: 1.6; /* Espaciado entre líneas */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo de tabla */
+.table {
+  margin-top: 20px; /* Margen superior */
+  border-collapse: collapse; /* Colapsar bordes */
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd; /* Línea debajo de las celdas */
+}
+
+th {
+  background-color: #0056b3; /* Azul oscuro para encabezados */
+  color: #ffffff; /* Texto blanco */
+}
+
+tbody tr:hover {
+  background-color: #007bff; /* Hover en filas de tabla */
+  color: #ffffff; /* Texto blanco al hacer hover */
+}
+
+/* Estilo del formulario */
+form {
+  margin-top: 20px; /* Margen superior */
+}
+
+/* Estilo del footer */
+footer {
+  background-color: #007bff; /* Color azul para el pie de página */
+  color: #ffffff; /* Texto blanco */
+  padding: 10px 0; /* Espaciado */
+  text-align: center; /* Centrando texto */
+}
+>>>>>>> origin/main
